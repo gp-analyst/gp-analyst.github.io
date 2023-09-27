@@ -2142,9 +2142,9 @@ input, select, textarea {
 			}
 
 			.image.avatar img {
-				border-radius: 100%;
-				width: 15em;
-				height: 15em;
+				border-radius: 50%;
+				width: 17em;
+				height: 19em;
 			}
 
 /* List */
