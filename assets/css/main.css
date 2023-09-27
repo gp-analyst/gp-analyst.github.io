@@ -3102,18 +3102,7 @@ input, select, textarea {
 				#footer .icons {
 					margin: 0 0 1em 0;
 				}
-
-				#footer .copyright {
-					margin: 0 0 1em 0;
-				}
-
-					#footer .copyright li {
-						border-left-width: 1px;
-						display: inline-block;
-						line-height: 1em;
-						margin-left: 0.75em;
-						padding-left: 0.75em;
-					}
+		
 
 		/* Main */
 
