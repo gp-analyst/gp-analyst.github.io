@@ -2133,7 +2133,7 @@ input, select, textarea {
 				width: 100%;
 			}
 
-		.image.avatar {
+		.image.tar {
 			border-radius: 100%;
 		}
 
@@ -2645,7 +2645,7 @@ input, select, textarea {
 		}
 
 		#header .image.avatar {
-			margin: -15% 0 10% 0;
+			margin: -20% 0 7% 0;
 			display: block;
 		}
 
