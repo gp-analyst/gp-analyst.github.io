@@ -2133,7 +2133,7 @@ input, select, textarea {
 				width: 100%;
 			}
 
-		.image.tar {
+		.image.avatar {
 			border-radius: 100%;
 		}
 
@@ -2198,7 +2198,7 @@ input, select, textarea {
 
 		ul.icons li {
 			display: inline-block;
-			padding: 0 1em 0 0;
+			padding: 0 1.5em 0 0;
 		}
 
 			ul.icons li:last-child {
@@ -3102,7 +3102,18 @@ input, select, textarea {
 				#footer .icons {
 					margin: 0 0 1em 0;
 				}
-		
+
+				#footer .copyright {
+					margin: 0 0 1em 0;
+				}
+
+					#footer .copyright li {
+						border-left-width: 1px;
+						display: inline-block;
+						line-height: 1em;
+						margin-left: 0.75em;
+						padding-left: 0.75em;
+					}
 
 		/* Main */
 
@@ -3215,35 +3226,14 @@ input, select, textarea {
 				margin-left: 0;
 				padding-left: 0;
 			}
-
+		
 	}
 
 
 	.mh-skills{box-sizing: border-box; width: 100%;}
 	
 	.mh-logo{
-		width: 6%;
+		width: 7%;
 		margin: 0 0 0 7.5%;
-		margin-top: 2%;
-		margin-bottom: 4%;
+		margin-top: 6%;
 	}
-
-	.container {
-		width: 100%;
-		background-color: #ddd;
-		margin: -4.5% 0 3% 0;
-	}
-
-	.skills {
-		text-align: right;
-		padding-top: auto;
-		padding-bottom: auto;
-		color: white;
-	}
-
-	.microsoft {width: 95%; background-color: #7fba00;}
-	.python {width: 90%; background-color: #3f7daf;}
-	.sql {width: 90%; background-color: #f29111;}
-	.powerbi {width: 85%; background-color: #ffb900;}
-	.tableau {width: 85%; background-color: #4891a2;}
-	.matlab {width: 70%; background-color: #be2909;}
